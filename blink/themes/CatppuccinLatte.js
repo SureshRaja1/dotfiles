@@ -1,21 +1,21 @@
 t.prefs_.set('color-palette-overrides', [
-  '#b0a898', // 0  black        Surface2  (warmed)
-  '#e64553', // 1  red          Maroon
-  '#40a02b', // 2  green        Green
-  '#df8e1d', // 3  yellow       Yellow
-  '#209fb5', // 4  blue         Sapphire
-  '#ea76cb', // 5  magenta      Pink
-  '#04a5e5', // 6  cyan         Sky
-  '#c9876e', // 7  white        Rosewater (warmed)
-  '#8839ef', // 8  bright black Mauve
-  '#e64553', // 9  bright red   Maroon
-  '#40a02b', // 10 bright green Green
-  '#df8e1d', // 11 bright yello Yellow
-  '#209fb5', // 12 bright blue  Sapphire
-  '#ea76cb', // 13 bright mag   Pink
-  '#04a5e5', // 14 bright cyan  Sky
-  '#3e2f1c', // 15 bright white Text      (warmed)
+  '#58544c', // 0  black        Surface2  (warmed, 50% dimmed)
+  '#732229', // 1  red          Maroon
+  '#205015', // 2  green        Green
+  '#6f470e', // 3  yellow       Yellow
+  '#104f5a', // 4  blue         Sapphire
+  '#753b65', // 5  magenta      Pink
+  '#025272', // 6  cyan         Sky
+  '#644337', // 7  white        Rosewater (warmed, 50% dimmed)
+  '#441c77', // 8  bright black Mauve
+  '#732229', // 9  bright red   Maroon
+  '#205015', // 10 bright green Green
+  '#6f470e', // 11 bright yello Yellow
+  '#104f5a', // 12 bright blue  Sapphire
+  '#753b65', // 13 bright mag   Pink
+  '#025272', // 14 bright cyan  Sky
+  '#1f170e', // 15 bright white Text      (warmed, 50% dimmed)
 ]);
-t.prefs_.set('foreground-color', '#3e2f1c');
-t.prefs_.set('background-color', '#d9c090');
-t.prefs_.set('cursor-color', '#b07030');
+t.prefs_.set('foreground-color', '#1f170e');
+t.prefs_.set('background-color', '#6c6048');
+t.prefs_.set('cursor-color', '#583818');
