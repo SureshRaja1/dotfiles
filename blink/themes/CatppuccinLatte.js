@@ -17,5 +17,5 @@ t.prefs_.set('color-palette-overrides', [
   '#3e2f1c', // 15 bright white Text      (warmed)
 ]);
 t.prefs_.set('foreground-color', '#3e2f1c');
-t.prefs_.set('background-color', '#f2e4c4');
+t.prefs_.set('background-color', '#d9c090');
 t.prefs_.set('cursor-color', '#b07030');
